@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CosmicFox5115
+- 👋 Hi, I’m Slade
 - 👀 I’m interested in cybersecurity and 3D printing
 - 🌱 I’m currently learning networking
 - 💞️ I’m looking to collaborate on nothing
