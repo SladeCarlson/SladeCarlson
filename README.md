@@ -1,9 +1,9 @@
-- Hi, I’m Slade
-- I'm a HS Freshman
+- Hi, I’m Slade Carlson, know online as Cosmi
+- I'm a HS Sophomore
 - I'm a one-time CyberPatriot National Finalist
 - Currently on CyberPatriot Team Netrunners
 - I specialize in Cisco, but i have spent time in every system
-- I also work on and use 3D printers, as well as use Fusion 360
+- I also work on and use 3D printers, as well as am certified in Fusion 360
   
 <!---
 CosmicFox5115/CosmicFox5115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
