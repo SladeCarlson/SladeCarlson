@@ -1,4 +1,4 @@
-- Hi, I’m Slade Carlson, know online as Cosmi
+- Hi, I’m Slade Carlson, know online as cosmi
 - I'm a HS Sophomore
 - I'm a one-time CyberPatriot National Finalist
 - I'm Currently on CyberPatriot Team Netrunners
